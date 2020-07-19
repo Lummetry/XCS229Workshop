@@ -1,4 +1,4 @@
-# Analysis of varios polynomial regression models
+# Demo #1 - Analysis of varios polynomial regression models
 
 ![Demo1](plot_k_multi.png)
 
