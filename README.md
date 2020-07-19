@@ -11,3 +11,4 @@ _The following content is made available under Open Software License ("OSL") v 3
 
  - 2020-05-01 - Created the plan for the public dissemination of results that do not infrige any copyright regulation of the XCS229 workshop
  - 2020-07-19 - Published (Open Source v3 license) the initial commit of the repo
+ - 2020-07-19 - Added first basic examples for regression models
