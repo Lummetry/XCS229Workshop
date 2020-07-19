@@ -5,7 +5,7 @@
 
 ## Content
 
-_The following content is made available under Open Software License ("OSL") v 3.0 and is mainly the creation of the Lummetry.AI team consisting of Andrei Ionut Damian and Laurentiu Gheorghe Piciu. No proprietary content of Stanford University of Stanford Center of Professional Development is made public_
+_The following content is made available under Open Software License ("OSL") v 3.0 and is mainly the creation of the Lummetry.AI team consisting of Andrei Ionut Damian and Laurentiu Gheorghe Piciu. No proprietary content of Stanford University or Stanford Center of Professional Development (SCPD) has been made public_
 
 ### History:
 
